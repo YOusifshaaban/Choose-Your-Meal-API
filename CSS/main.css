@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: black;
+}
+
+img{
+    height: 350px;
+}
+h1{
+    color: azure;
+    padding-top: 7px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#styleH1 h1{
+    padding-top: 30px;
+    font-size: 70px;
+}
